@@ -8,6 +8,6 @@
 # Explicação Inicial
  - O projeto começa com a inicialização dos dados do cliente, como nome, tipo de conta e saldo inicial. Em seguida, são apresentadas quatro opções de operações: consultar saldos, receber valor, transferir valor e uma opção para sair/fechar menu. 
   
-# Metodos utilizados
+# O que foi utilizado
 declaração de variáveis, condicionais e loops.
 
