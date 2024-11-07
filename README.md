@@ -1,4 +1,4 @@
-# Desafio Java ONE e Alura 🐱‍💻
+# Desafio Java ONE e Alura
 
 - Desafio proposto durante a finalização do curso [Java: Criando a sua primeira aplicação](https://cursos.alura.com.br/course/java-criando-primeira-aplicacao)
 
