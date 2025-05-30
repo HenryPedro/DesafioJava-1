@@ -40,7 +40,7 @@ public class ContaBancaria {
             if(valorDigitado > saldoConta){
                 System.out.println("Saldo em conta insuficiente!");
             } else {
-                saldoConta -= saldoConta - valorDigitado;
+                saldoConta -= valorDigitado;
                 System.out.println("Novo Saldo" + saldoConta);
             }
         } else if (opcao == 3){
